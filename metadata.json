@@ -1,0 +1,6 @@
+{
+  "name": "VibeSync",
+  "description": "Elegant AI-powered music curation, vibe synchronization, and dynamic soundtrack discovery platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
